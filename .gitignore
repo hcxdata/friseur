@@ -16,5 +16,10 @@
 !/log/.keep
 /tmp
 
+/Gemfile.lock
 /config/database.yml
 /config/secrets.yml
+
+/app/assets/bundles/
+/bower_components/
+/node_modules/
