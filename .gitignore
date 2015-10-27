@@ -19,7 +19,11 @@
 /Gemfile.lock
 /config/database.yml
 /config/secrets.yml
+/db/schema.rb
 
 /app/assets/bundles/
 /bower_components/
 /node_modules/
+
+/spec/examples.txt
+
